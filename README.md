@@ -15,5 +15,4 @@ Features
 - Downloadable: Download the generated QR code as a PNG image.
 - Responsive Design: Works seamlessly on both desktop and mobile devices.
 
-
-
+DEMO LIVE link: https://qrcode-320.netlify.app/
