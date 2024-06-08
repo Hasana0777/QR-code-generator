@@ -3,7 +3,7 @@ import {useState} from "react";
 export const Qrcode = () => {
     const [img,setImg] = useState("");
     const[loading , setLoading] = useState(false);
-  const[qrData, setQrData] = useState("kabi kushi kabi kam");
+  const[qrData, setQrData] = useState("https://google.com");
 const[qrSize,setQrSize] = useState("150")
 
 
