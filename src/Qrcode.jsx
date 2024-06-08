@@ -64,6 +64,8 @@ className="generate-button" disabled ={loading} onClick={generateQR}>Generate QR
 <button
 className="download-button" onClick={downloadQR}>Download QR Code</button>
 
-
+</div>
+      </div>
+          
 );
 };
