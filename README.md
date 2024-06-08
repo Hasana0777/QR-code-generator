@@ -16,4 +16,4 @@ Features
 - Responsive Design: Works seamlessly on both desktop and mobile devices.
 
 
-Demo live link: https://qrcode-320.netlify.app/
+
